@@ -7,7 +7,8 @@ https://github.com/mountbatt/yourls-check-existing-url
 
 ### Screenshots
 
-![image](https://github.com/user-attachments/assets/4d89c5bb-2ccc-4059-8f4c-ced114e1a6c6)
+
+<img width="308" alt="Bildschirmfoto 2025-02-09 um 15 24 56" src="https://github.com/user-attachments/assets/4d89c5bb-2ccc-4059-8f4c-ced114e1a6c6" />
 
 <img width="308" alt="Bildschirmfoto 2025-02-09 um 15 24 56" src="https://github.com/user-attachments/assets/59ce8814-cfcd-4d63-93dd-ccfb6e097c9b" />
 
