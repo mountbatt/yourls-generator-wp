@@ -62,7 +62,7 @@ function shorturl_settings_page() {
                       So installierst Du Yourls: <a target="_blank" href="https://yourls.org/docs">https://yourls.org/docs</a>
                     </p>
                     <p>
-                      Es ist zudem notwendig das User-Plugin <a href="" target="_blank">check-existing-url</a> in Deiner Yoast Installation zu installieren und aktivieren.
+                      Es ist zudem notwendig das User-Plugin <a href="https://github.com/mountbatt/yourls-check-existing-url" target="_blank">yourls-check-existing-url</a> in Deiner Yoast Installation zu installieren und aktivieren.
                     </p>
                   </td>
                 </tr>
